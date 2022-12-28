@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightsalmon;
+}
+
+.container{
+ font-family: Arial, Helvetica, sans-serif;
+ color: white;
+ font-weight: bold;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 250px;
+ font-size: 60px;
+ 
+}
+ #hours{
+
+ background-color: gold;
+ height: 100px;
+ width: 100px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ border-radius: 10px 10px 10px;
+box-shadow: 5px 5px 5px gray;
+
+}
+
+#minutes{
+    background-color: skyblue;
+ height: 100px;
+ width: 100px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ border-radius: 10px 10px 10px;
+ box-shadow: 5px 5px 5px gray;
+
+}
+#seconds{
+    background-color: hotpink;
+ height: 100px;
+ width: 100px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ border-radius: 10px 10px 10px;
+ box-shadow: 5px 5px 5px gray;
+
+}
+#session{
+background-color:gray;
+ height: 100px;
+ width: 100px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ border-radius: 10px 10px 10px;
+ margin-left: 20px;
+ box-shadow: 5px 5px 5px gray;
+
+}
+
+#abc{
+    background-color:gray;
+    height: 100px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px 10px 10px;
+    margin-left: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-right: 20px;  
+
+
+}
